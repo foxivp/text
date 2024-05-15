@@ -1,11 +1,11 @@
 {
   "urls": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/9918.json",
+      "url": "https://raw.githubusercontent.com/foxivp/text/main/json/9918.json",
       "name": "高天18🈲"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+      "url": "https://raw.githubusercontent.com/foxivp/text/main/json/18sex.json",
       "name": "bizhangjie🈲"
     }
   ]
