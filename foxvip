@@ -38,6 +38,39 @@
       "ext": "https://www.80yy3.com/"
     },
     {
+      "key": "胖虎",
+      "name": "🐯┃胖虎┃影视",
+      "type": 3,
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "🏔┃耐看┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Nkdy"
+    },
+    {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎┃苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
       "type": 3,
